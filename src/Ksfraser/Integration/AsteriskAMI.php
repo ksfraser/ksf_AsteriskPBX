@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Ksfraser\AsteriskPBX\Integration;
+namespace Ksfraser\Integration;
 
 use Ksfraser\AsteriskPBX\Entity\AsteriskCall;
 use Ksfraser\AsteriskPBX\Entity\SMSMessage;

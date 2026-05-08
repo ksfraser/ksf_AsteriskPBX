@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Ksfraser\AsteriskPBX\Service;
+namespace Ksfraser\Service;
 
 use Ksfraser\AsteriskPBX\Entity\AsteriskCall;
 use Ksfraser\AsteriskPBX\Integration\AsteriskAMI;

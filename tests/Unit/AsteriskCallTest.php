@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Ksfraser\AsteriskPBX\Tests\Unit;
+namespace Ksfraser\Unit;
 
 use PHPUnit\Framework\TestCase;
 use Ksfraser\AsteriskPBX\Entity\AsteriskCall;

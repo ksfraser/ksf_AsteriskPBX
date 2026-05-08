@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Ksfraser\AsteriskPBX\Entity;
+namespace Ksfraser\Entity;
 
 class SMSMessage
 {

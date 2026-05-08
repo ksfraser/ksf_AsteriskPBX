@@ -11,12 +11,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Ksfraser\\AsteriskPBX\\": "src/"
+            "Ksfraser\\": "src/Ksfraser/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Ksfraser\\AsteriskPBX\\Tests\\": "tests/"
+            "Ksfraser\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "dev",
