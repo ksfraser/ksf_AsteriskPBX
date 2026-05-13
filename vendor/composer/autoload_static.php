@@ -18,8 +18,8 @@ class ComposerStaticInit2f442eb9a54e0c824eb4e4d2f00d82c2
         ),
         'K' => 
         array (
-            'Ksfraser\\AsteriskPBX\\Tests\\' => 27,
-            'Ksfraser\\AsteriskPBX\\' => 21,
+            'Ksfraser\\Tests\\' => 15,
+            'Ksfraser\\' => 9,
         ),
         'D' => 
         array (
@@ -32,13 +32,13 @@ class ComposerStaticInit2f442eb9a54e0c824eb4e4d2f00d82c2
         array (
             0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
         ),
-        'Ksfraser\\AsteriskPBX\\Tests\\' => 
+        'Ksfraser\\Tests\\' => 
         array (
             0 => __DIR__ . '/../..' . '/tests',
         ),
-        'Ksfraser\\AsteriskPBX\\' => 
+        'Ksfraser\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src',
+            0 => __DIR__ . '/../..' . '/src/Ksfraser',
         ),
         'DeepCopy\\' => 
         array (

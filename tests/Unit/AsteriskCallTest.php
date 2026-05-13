@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Ksfraser\Unit;
 
 use PHPUnit\Framework\TestCase;
-use Ksfraser\AsteriskPBX\Entity\AsteriskCall;
+use Ksfraser\Entity\AsteriskCall;
 
 class AsteriskCallTest extends TestCase
 {
