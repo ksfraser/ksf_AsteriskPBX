@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Ksfraser\Integration;
+namespace ksfraser\Integration;
 
-use Ksfraser\AsteriskPBX\Entity\AsteriskCall;
-use Ksfraser\AsteriskPBX\Entity\SMSMessage;
-use Ksfraser\AsteriskPBX\Entity\ClickToCallRequest;
+use ksfraser\AsteriskPBX\Entity\AsteriskCall;
+use ksfraser\AsteriskPBX\Entity\SMSMessage;
+use ksfraser\AsteriskPBX\Entity\ClickToCallRequest;
 
 class AsteriskAMI
 {

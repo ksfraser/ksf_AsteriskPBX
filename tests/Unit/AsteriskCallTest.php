@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Ksfraser\Unit;
+namespace ksfraser\Unit;
 
 use PHPUnit\Framework\TestCase;
-use Ksfraser\Entity\AsteriskCall;
+use ksfraser\Entity\AsteriskCall;
 
 class AsteriskCallTest extends TestCase
 {

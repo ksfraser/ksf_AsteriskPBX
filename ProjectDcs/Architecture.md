@@ -33,7 +33,7 @@ The ksf_AsteriskPBX module follows these architectural principles:
 ksf_AsteriskPBX/
 ├── composer.json
 ├── src/
-│   └── Ksfraser/
+│   └── ksfraser/
 │       └── AsteriskPBX/              # Namespace for module
 │           ├── Entity/
 │           │   ├── AsteriskCall.php  # Call entity model
@@ -62,7 +62,7 @@ ksf_AsteriskPBX/
 
 #### AsteriskCall
 ```php
-namespace Ksfraser\AsteriskPBX\Entity;
+namespace ksfraser\AsteriskPBX\Entity;
 
 class AsteriskCall
 {
@@ -117,7 +117,7 @@ class AsteriskCall
 
 #### SMSMessage
 ```php
-namespace Ksfraser\AsteriskPBX\Entity;
+namespace ksfraser\AsteriskPBX\Entity;
 
 class SMSMessage
 {
@@ -167,7 +167,7 @@ class ClickToCallRequest
 
 #### AsteriskAMI
 ```php
-namespace Ksfraser\AsteriskPBX\Integration;
+namespace ksfraser\AsteriskPBX\Integration;
 
 class AsteriskAMI
 {

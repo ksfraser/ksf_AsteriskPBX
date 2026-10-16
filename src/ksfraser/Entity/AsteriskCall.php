@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Ksfraser\Entity;
+namespace ksfraser\Entity;
 
 class AsteriskCall
 {

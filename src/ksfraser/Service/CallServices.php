@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Ksfraser\Service;
+namespace ksfraser\Service;
 
-use Ksfraser\AsteriskPBX\Entity\AsteriskCall;
-use Ksfraser\AsteriskPBX\Integration\AsteriskAMI;
+use ksfraser\AsteriskPBX\Entity\AsteriskCall;
+use ksfraser\AsteriskPBX\Integration\AsteriskAMI;
 
 class PhoneNumberMatcher
 {
