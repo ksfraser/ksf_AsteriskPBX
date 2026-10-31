@@ -3,7 +3,7 @@
         'name' => 'ksfraser/ksf_asteriskpbx',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '285e3dda88958589bfeaef69b0ba1d1e4830846f',
+        'reference' => '7d7831354be092e144cac4ee171c0c584ba9c671',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'ksfraser/ksf_asteriskpbx' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '285e3dda88958589bfeaef69b0ba1d1e4830846f',
+            'reference' => '7d7831354be092e144cac4ee171c0c584ba9c671',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
